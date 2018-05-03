@@ -3,16 +3,16 @@
 <li>Cadastros
 	<ul>
 		<li>Cadastro Alunos</li>
-		<li>Cadastro Respons&aacute;veis</li>
+		<li>Cadastro Responsáveis</li>
 		<li>Cadastro Docentes</li>
 		<li>Cadastro Contratados</li>
-		<li>Cadastro Funcion&aacute;rios da Escola</li>
-		<li>Cadastro Aut&ocirc;nimos</li>
+		<li>Cadastro Funcionários da Escola</li>
+		<li>Cadastro Autônimos</li>
 	</ul>
 </li>
 <li>Pesquisa</li>
-<li>Impress&atilde;o</li>
-<li>Relat&ocirc;rio</li>
+<li>Impressão</li>
+<li>Relatório</li>
 <li>Ajuda</li>
 <li>Busca</li>
 </ul>
