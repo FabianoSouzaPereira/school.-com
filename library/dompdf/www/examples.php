@@ -1,5 +1,5 @@
 <?php
-require_once("../dompdf_config.inc.php");
+requilibrary("../dompdf_config.inc.php");
 if ( isset( $_POST["html"] ) ) {
 
   if ( get_magic_quotes_gpc() )
